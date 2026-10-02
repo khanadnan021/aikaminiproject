@@ -1,0 +1,6 @@
+{
+  "name": "EduPredict - Student Performance & Risk Prediction System",
+  "description": "An intelligent EdTech dashboard for educators and students featuring real-time ML risk prediction, subject deficit diagnosis, what-if grade simulation, and AI-powered personalized academic intervention roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
